@@ -1,0 +1,3 @@
+const imagesData = [{"id":1,"src":"/imgs/central-station.jpg","alt":"Bild 1"},{"id":2,"src":"/imgs/central-station_2.jpg","alt":"Bild 2"},{"id":3,"src":"/imgs/dom.jpg","alt":"Bild 3"},{"id":4,"src":"/imgs/harber.jpg","alt":"Bild 4"},{"id":5,"src":"/imgs/hohenzoller.jpg","alt":"Bild 5"},{"id":6,"src":"/imgs/kaiser.jpg","alt":"Bild 6"},{"id":7,"src":"/imgs/load-crane.jpg","alt":"Bild 7"},{"id":8,"src":"/imgs/old-town.jpg","alt":"Bild 8"},{"id":9,"src":"/imgs/rhine.jpg","alt":"Bild 9"},{"id":10,"src":"/imgs/skyscraper.jpg","alt":"Bild 10"}];
+
+export default imagesData;

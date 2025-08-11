@@ -1,0 +1,108 @@
+body {
+    margin: 0; 
+    padding: 0; 
+    background-color: #CFC0EB !important;
+  }
+  
+  .app {
+    height: 100vh;
+    width: 100vw;
+  }
+.colorchange-container{
+  width:20%;
+  height:40%;
+  position: relative;
+  top: 20%;
+  left: 25%;
+  display: grid;
+  grid-template-rows: 6;
+  place-items: center;
+}
+.colorchange-box{
+  background-color: #4caf50;
+  width: 80%;
+  height: 90%;
+  grid-row: span 5;
+}
+.colorchange-buttoncontainer{
+    display:flex;
+    align-items: center;
+}
+.cardbox{
+    border: solid #8785EB;
+    box-shadow: 0.3em 0.3em 0.6em #8785EB;
+    width: 40vw;
+    height: 50vh;
+    position: relative;
+    top: 10vh;
+    left: 30vw;
+    padding: 1.5em;
+    background-color: #C0DAEB !important; 
+}
+
+.point-container{
+  text-align: center;
+  padding: 1em;
+  margin-bottom: 2rem;
+}
+
+.game-box {
+  margin-bottom: 3rem;
+}
+
+
+.header{
+    background-color: #8785EB;
+}
+
+.button{
+    background-color: #8785EB  !important;
+    color: #0f0e38 !important;
+    border-color: #6563df !important; 
+    box-shadow: 0.1em 0.1em 0.2em #8785EB !important;
+    margin: 0.5rem;
+}
+
+.button:hover{
+    background-color: #CFC0EB  !important;
+}
+.quiz-container{
+  border: solid #8785EB;
+  box-shadow: 0.3em 0.3em 0.6em #8785EB;
+  background-color: #C0DAEB !important; 
+  margin: 10px;
+}
+
+.quiz-button{
+  margin: 10px;
+}
+
+.json{
+  width: 10% !important;
+}
+
+.correct-answer {
+  background-color: #4caf50;
+  color: #fff; 
+}
+
+.alert{
+  position: relative;
+  left: 25%;
+  bottom: 48rem;
+  width: 50%;
+  height: 20rem;
+  background-color: #8785EB !important;
+  box-shadow: 0.3em 0.3em 0.6em #5956ee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: xx-large;
+  
+}
+
+
+
+
+
