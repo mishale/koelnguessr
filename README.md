@@ -11,6 +11,7 @@ After placing a marker, the app calculates the **distance between the guess and 
 -  Interactive map for making location guesses
 -  Distance calculation between guess and actual location
 -  Highscore tracking to keep the competition alive
+-  Additional geography quiz from API with 5 questions
 -  Built as a **frontend-only project**
 
 ---
@@ -44,7 +45,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 /public          → Static assets, images
 /src
@@ -53,11 +54,4 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser.
   App.js        → Main game logic
   index.js      → Entry point
 ```
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
 
